@@ -1,4 +1,5 @@
 int main() {
-   return 0;
+     printf("Hello, universe!\n");
+     return 0;
 }
 
